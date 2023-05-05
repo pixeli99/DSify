@@ -43,4 +43,4 @@ Many codes are based on [Lavis](https://github.com/salesforce/LAVIS) with
 BSD 3-Clause License [here](LICENSE_Lavis.md).
 
 ## Acknowledgments 🤝
-We would like to thank the developers of [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4), [LLaVA](https://github.com/haotian-liu/LLaVA), [InternVideo](https://github.com/OpenGVLab/InternVideo), [Ask-Anything](https://github.com/OpenGVLab/Ask-Anything) and [Vicuna](https://github.com/lm-sys/FastChat) for their incredible work and providing the foundation for DriveScenify.
+We would like to thank the developers of [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4), [LLaVA](https://github.com/haotian-liu/LLaVA), [InternVideo](https://github.com/OpenGVLab/InternVideo), [Ask-Anything](https://github.com/OpenGVLab/Ask-Anything), [Image2Paragraph](https://github.com/showlab/Image2Paragraph)and [Vicuna](https://github.com/lm-sys/FastChat) for their incredible work and providing the foundation for DriveScenify.

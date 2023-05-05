@@ -1,0 +1,16 @@
+<Media><MediaHere></Media> Describe this media in detail.
+<Media><MediaHere></Media> Take a look at this media and describe what you notice.
+<Media><MediaHere></Media> Please provide a detailed description of the media.
+<Media><MediaHere></Media> Could you describe the contents of this media for me?
+<Media><MediaHere></Media> Share a comprehensive rundown of the presented media.
+<Media><MediaHere></Media> Narrate the contents of the media with precision.
+<Media><MediaHere></Media> Carefully observe this media and provide an in-depth analysis.
+<Media><MediaHere></Media> Examine the media closely and share your observations.
+<Media><MediaHere></Media> Give a thorough description of what is depicted in the media.
+<Media><MediaHere></Media> Analyze this media and explain its key elements.
+<Media><MediaHere></Media> Study the media and describe its features in detail.
+<Media><MediaHere></Media> Offer an exhaustive explanation of the media's content.
+<Media><MediaHere></Media> Delve into the media and provide a meticulous description.
+<Media><MediaHere></Media> Inspect the media and outline its components comprehensively.
+<Media><MediaHere></Media> Take a close look at the media and describe its various aspects.
+<Media><MediaHere></Media> Examine the media in detail and convey your observations accurately.
