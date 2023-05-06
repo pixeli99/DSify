@@ -7,6 +7,9 @@ With this motivation, we introduce DriveScenify, an approach that aims to boost 
 
 Furthermore, our unique combination among various encoders enables DSify to provide accurate and context-aware insights, which can be applied to various transportation applications, especially for traffic management, and road safety analysis.
 
+![image](https://user-images.githubusercontent.com/46072190/236612322-6d0da576-020e-49fa-91ee-13444879a030.png)
+
+
 ## Features 🌟
 - Spatial-temporal Safe Driving Scene Comprehension: DriveScenify is meticulously developed to accurately interpret diverse driving scenarios, encompassing traffic patterns, vehicle classifications, road conditions and temporal information, with a particular emphasis on promoting driving safety.
 - Contextual Response Formulation: The model is capable of generating context-sensitive responses and recommendations derived from the driving scene, offering valuable guidance to users.
