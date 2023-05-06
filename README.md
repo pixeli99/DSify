@@ -1,12 +1,16 @@
 # 🚦DriveScenify: Boosting Driving Scene Understanding with Advanced Vision-Language Models
 
 ## Introduction 📚
-DSify is a tailored version of MiniGPT-4 that focuses on understanding and generating responses based on driving scene videos. It aligns a frozen visual encoder from InternVideo with a frozen LLM, Vicuna, using the `PerceiverResampler` from `OpenFlamingo`, specifically for driving scenarios.
+The increasing complexity of traffic situations, coupled with the rapid growth of urban populations, necessitates the development of innovative solutions that can mitigate congestion, reduce traffic-related accidents, and facilitate smoother transportation systems. Recognizing the significant impact of ChatGPT and computer vision technologies on various domains, it is timely to investigate how these advancements can be harnessed to address the critical challenges in urban transportation safety and efficiency. 
+
+With this motivation, we introduce DriveScenify, an approach that aims to boost driving scene understanding by leveraging advanced vision-language models. Our research focuses on developing a tailored version of MiniGPT-4, called DSify, which is specifically designed to process and generate contextually relevant responses based on driving scene videos. DriveScenify's integration of advanced vision-language models into the realm of transportation aims to unlock new possibilities for improving urban mobility, reducing traffic-related accidents, and enhancing the overall driving experience.
+
+Furthermore, our unique combination among various encoders enables DSify to provide accurate and context-aware insights, which can be applied to various transportation applications, especially for traffic management, and road safety analysis.
 
 ## Features 🌟
-- Driving Scene Understanding: DriveScenify is designed to accurately comprehend various driving situations, including traffic patterns, vehicle types, and road conditions.
-- Contextual Response Generation: The model can generate context-aware responses and suggestions based on the driving scene, providing valuable insights to users.
-- Although our primary focus is on training with driving scenario videos, DSify also possess a certain level of understanding for general videos.
+- Spatial-temporal Safe Driving Scene Comprehension: DriveScenify is meticulously developed to accurately interpret diverse driving scenarios, encompassing traffic patterns, vehicle classifications, road conditions and temporal information, with a particular emphasis on promoting driving safety.
+- Contextual Response Formulation: The model is capable of generating context-sensitive responses and recommendations derived from the driving scene, offering valuable guidance to users.
+- While our central focus lies in training DSify using driving scenario videos, the model also exhibits a degree of competence in understanding and processing general video content. This versatility enhances its potential applications across a broader range of domains while maintaining its primary objective of improving driving safety and scene understanding.
 
 ## Example 💬
 ![demo](https://user-images.githubusercontent.com/46072190/236392674-928bb5b4-2308-4061-a20c-b380c63fedd4.gif#pic_center)
@@ -33,6 +37,17 @@ In fact, the demo supports both image and video inputs, so feel free to give it 
 - [ ] Training with dialogue datasets.
 - [ ] Expanding data generation capabilities.
 - [ ] ...
+
+## Contributors:
+Xiaowei Gao* (SpacetimeLab, University College London, UK)
+
+Pengxiang Li* (IIAU-Lab, Dalian University of Technology, China)
+
+Ming Li (National Heart & Lung Institute, Imperial College London, UK)
+
+Xinke Jiang (Key Lab of High Confidence Software Technologies,Peking Universtiy, China)
+
+(*Equal Contribution)
 
 ## Contributing 🤝
 At present, DriveScenify is in its initial stages, and in many cases, **the performance may not be as ideal as expected**. Data generation is still ongoing, and we are continuously working to improve the model. We highly appreciate and welcome contributions from the community to help enhance DriveScenify's capabilities and performance.
