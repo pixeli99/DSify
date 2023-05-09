@@ -52,6 +52,11 @@ Xinke Jiang (Key Lab of High Confidence Software Technologies,Peking Universtiy,
 
 (*Equal Contribution)
 
+## Supervisors:
+Dr. James Haworth (SpacetimeLab, University College London, UK) https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/people/dr-james-haworth
+
+Dr. Jonathan Cardoso-Silva (Data Science Institute, London School of Economics and Political Science, UK) https://github.com/jonjoncardoso
+
 ## Contributing 🤝
 At present, DriveScenify is in its initial stages, and in many cases, **the performance may not be as ideal as expected**. Data generation is still ongoing, and we are continuously working to improve the model. We highly appreciate and welcome contributions from the community to help enhance DriveScenify's capabilities and performance.
 
