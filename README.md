@@ -42,20 +42,20 @@ In fact, the demo supports both image and video inputs, so feel free to give it 
 - [ ] ...
 
 ## Contributors:
-Xiaowei Gao* (SpacetimeLab, University College London, UK)
+Xiaowei Gao* (SpacetimeLab, University College London, UK) [email](ucesxwg@ucl.ac.uk)
 
-Pengxiang Li* (IIAU-Lab, Dalian University of Technology, China)
+Pengxiang Li* (IIAU-Lab, Dalian University of Technology, China) [email](2040gis@gmail.com)
 
-Ming Li (National Heart & Lung Institute, Imperial College London, UK)
+Ming Li (National Heart & Lung Institute, Imperial College London, UK) [email](ming.li@imperial.ac.uk)
 
-Xinke Jiang (Key Lab of High Confidence Software Technologies,Peking Universtiy, China)
+Xinke Jiang (Key Lab of High Confidence Software Technologies,Peking Universtiy, China) [email](thinkerjiang@foxmail.com)
 
 (*Equal Contribution)
 
 ## Supervisors:
-Dr. James Haworth (SpacetimeLab, University College London, UK) https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/people/dr-james-haworth
+[Dr. James Haworth](https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/people/dr-james-haworth) (SpacetimeLab, University College London, UK)
 
-Dr. Jonathan Cardoso-Silva (Data Science Institute, London School of Economics and Political Science, UK) https://github.com/jonjoncardoso
+[Dr. Jonathan Cardoso-Silva](https://github.com/jonjoncardoso) (Data Science Institute, London School of Economics and Political Science, UK)
 
 ## Contributing 🤝
 At present, DriveScenify is in its initial stages, and in many cases, **the performance may not be as ideal as expected**. Data generation is still ongoing, and we are continuously working to improve the model. We highly appreciate and welcome contributions from the community to help enhance DriveScenify's capabilities and performance.
