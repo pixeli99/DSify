@@ -1,8 +1,11 @@
 # 🚦DriveScenify: Boosting Driving Scene Understanding with Advanced Vision-Language Models
+----------------------------------------------------------------------
 
-[Demo](https://cdaef61fa268cbdccf.gradio.live)
+[[Demo](https://cdaef61fa268cbdccf.gradio.live)]
 
 The demo link may sometimes expire, but don't worry, we will update it in a timely manner, and **a retrained version is about to be launched**. Have fun!😉
+
+In addition, our model does not have a strong understanding of general videos (although there are also some), so if you want to try general videos, I think [Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) is a great project better than us.
 
 ## Introduction 📚
 The increasing complexity of traffic situations, coupled with the rapid growth of urban populations, necessitates the development of innovative solutions that can mitigate congestion, reduce traffic-related accidents, and facilitate smoother transportation systems. Recognizing the significant impact of ChatGPT and computer vision technologies on various domains, it is timely to investigate how these advancements can be harnessed to address the critical challenges in urban transportation safety and efficiency. 
