@@ -1,5 +1,9 @@
 # 🚦DriveScenify: Boosting Driving Scene Understanding with Advanced Vision-Language Models
 
+[Demo](https://cdaef61fa268cbdccf.gradio.live)
+
+The demo link may sometimes expire, but don't worry, we will update it in a timely manner, and **a retrained version is about to be launched**. Have fun!😉
+
 ## Introduction 📚
 The increasing complexity of traffic situations, coupled with the rapid growth of urban populations, necessitates the development of innovative solutions that can mitigate congestion, reduce traffic-related accidents, and facilitate smoother transportation systems. Recognizing the significant impact of ChatGPT and computer vision technologies on various domains, it is timely to investigate how these advancements can be harnessed to address the critical challenges in urban transportation safety and efficiency. 
 
@@ -9,6 +13,15 @@ Furthermore, our unique combination among various encoders enables DSify to prov
 
 ![image](https://user-images.githubusercontent.com/46072190/236612322-6d0da576-020e-49fa-91ee-13444879a030.png)
 
+## Some current shortcomings
+
+1. Why did the model not answer the behavior in the video?!
+
+In fact, this is very likely to happen because we sampled the video frames (8 frames), which may miss the time period of the `event`.
+
+2. The model is dreaming!
+
+Yes, the current version of the model always outputs information that does not exist in the images/videos, but don't worry, please believe that we will optimize it and do better. :)
 
 ## Features 🌟
 - Spatial-temporal Safe Driving Scene Comprehension: DriveScenify is meticulously developed to accurately interpret diverse driving scenarios, encompassing traffic patterns, vehicle classifications, road conditions and temporal information, with a particular emphasis on promoting driving safety.
