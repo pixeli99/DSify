@@ -1,7 +1,7 @@
 # 🚦DriveScenify: Boosting Driving Scene Understanding with Advanced Vision-Language Models
 ----------------------------------------------------------------------
 
-[[Demo](https://cdaef61fa268cbdccf.gradio.live)]
+[[Demo](https://35e68336d9bf43175c.gradio.live)]
 
 The demo link may sometimes expire, but don't worry, we will update it in a timely manner, and **a retrained version is about to be launched**. Have fun!😉
 
