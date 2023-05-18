@@ -13,7 +13,7 @@
 <div align="center">
     <sup>1</sup>SpacetimeLab, University College London, UK &nbsp;&nbsp;
     <sup>2</sup>IIAU-Lab, Dalian University of Technology, China &nbsp;&nbsp;
-    <sup>3</sup>Key Lab of High Confidence Software Technologies,Peking Universtiy, China &nbsp;&nbsp;
+    <sup>3</sup>Key Lab of High Confidence Software Technologies, Peking Universtiy, China &nbsp;&nbsp;
     <sup>4</sup>Data Science Institute, London School of Economics and Political Science, UK &nbsp;&nbsp;
     <sup>5</sup>National Heart & Lung Institute, Imperial College London, UK
 </div>
@@ -88,7 +88,7 @@ BSD 3-Clause License [here](LICENSE_Lavis.md).
 We would like to thank the developers of [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4), [LLaVA](https://github.com/haotian-liu/LLaVA), [InternVideo](https://github.com/OpenGVLab/InternVideo), [Ask-Anything](https://github.com/OpenGVLab/Ask-Anything), [Image2Paragraph](https://github.com/showlab/Image2Paragraph) and [Vicuna](https://github.com/lm-sys/FastChat) for their incredible work and providing the foundation for DriveScenify.
 
 ## Citation 📝
-If you find this repository useful in your research, please cite the following paper:
+If you find this repository useful in your research, please cite our repo:
 
 ```
 @software{drivescenify2023multimodal,
