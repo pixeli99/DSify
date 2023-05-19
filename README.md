@@ -1,9 +1,28 @@
 # 🚦DriveScenify: Boosting Driving Scene Understanding with Advanced Vision-Language Models
-----------------------------------------------------------------------
 
-[[Demo](https://35e68336d9bf43175c.gradio.live)]
+<div>
+<div align="center">
+    <a href='https://iris.ucl.ac.uk/iris/browse/profile?upi=XWGAO66' target='_blank'>Xiaowei Gao<sup>*1</sup></a>&emsp;
+    <a href='https://github.com/pixeli99/' target='_blank'>Pengxiang Li<sup>*2</sup></a>&emsp;
+    <a href='https://jiangxinke.github.io/' target='_blank'>Xinke Jiang<sup>3</sup></a>&emsp;
+    <a href='https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/people/dr-james-haworth' target='_blank'>James Haworth<sup>1</sup></a>&emsp;
+    <a href='https://github.com/jonjoncardoso' target='_blank'>Jonathan Cardoso-Silva<sup>4</sup></a>&emsp;
+    <a href='https://www.imperial.ac.uk/people/ming.li' target='_blank'>Ming Li<sup>5<a href="mailto:ming.li@imperial.ac.uk">&#9993;</a></sup></p></a>
+</div>
+<div>
+<div align="center">
+    <sup>1</sup>SpacetimeLab, University College London, UK &nbsp;&nbsp;
+    <sup>2</sup>IIAU-Lab, Dalian University of Technology, China &nbsp;&nbsp;
+    <sup>3</sup>Key Lab of High Confidence Software Technologies, Peking Universtiy, China &nbsp;&nbsp;
+    <sup>4</sup>Data Science Institute, London School of Economics and Political Science, UK &nbsp;&nbsp;
+    <sup>5</sup>National Heart & Lung Institute, Imperial College London, UK
+</div>
 
-The demo link may sometimes expire, but don't worry, we will update it in a timely manner, and **a retrained version is about to be launched**. Have fun!😉
+
+
+## Demo 📰
+
+The [demo link](https://35e68336d9bf43175c.gradio.live) may sometimes expire, but don't worry, we will update it in a timely manner, and **a retrained version is about to be launched**. Have fun!😉
 
 In addition, our model does not have a strong understanding of general videos (although there are also some), so if you want to try general videos, I think [Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) is a great project better than us.
 
@@ -57,22 +76,6 @@ In fact, the demo supports both image and video inputs, so feel free to give it 
 - [ ] Expanding data generation capabilities.
 - [ ] ...
 
-## Contributors:
-Xiaowei Gao* (SpacetimeLab, University College London, UK) [email](ucesxwg@ucl.ac.uk)
-
-Pengxiang Li* (IIAU-Lab, Dalian University of Technology, China) [email](2040gis@gmail.com)
-
-Ming Li (National Heart & Lung Institute, Imperial College London, UK) [email](ming.li@imperial.ac.uk)
-
-Xinke Jiang (Key Lab of High Confidence Software Technologies,Peking Universtiy, China) [email](thinkerjiang@foxmail.com)
-
-(*Equal Contribution)
-
-## Supervisors:
-[Dr. James Haworth](https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/people/dr-james-haworth) (SpacetimeLab, University College London, UK)
-
-[Dr. Jonathan Cardoso-Silva](https://github.com/jonjoncardoso) (Data Science Institute, London School of Economics and Political Science, UK)
-
 ## Contributing 🤝
 At present, DriveScenify is in its initial stages, and in many cases, **the performance may not be as ideal as expected**. Data generation is still ongoing, and we are continuously working to improve the model. We highly appreciate and welcome contributions from the community to help enhance DriveScenify's capabilities and performance.
 
@@ -83,3 +86,15 @@ BSD 3-Clause License [here](LICENSE_Lavis.md).
 
 ## Acknowledgments 🤝
 We would like to thank the developers of [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4), [LLaVA](https://github.com/haotian-liu/LLaVA), [InternVideo](https://github.com/OpenGVLab/InternVideo), [Ask-Anything](https://github.com/OpenGVLab/Ask-Anything), [Image2Paragraph](https://github.com/showlab/Image2Paragraph) and [Vicuna](https://github.com/lm-sys/FastChat) for their incredible work and providing the foundation for DriveScenify.
+
+## Citation 📝
+If you find this repository useful in your research, please cite our repo:
+
+```
+@software{drivescenify2023multimodal,
+  author = {Gao, Xiaowei and Li, Pengxiang and Jiang, xinke and Haworth, James and Cardoso-Silva, Jonathan and Li, Ming},
+  title = {DriveScenify: Boosting Driving Scene Understanding with Advanced Vision-Language Models},
+  year = 2023,
+  url = {https://github.com/pixeli99/DSify}
+}
+```
